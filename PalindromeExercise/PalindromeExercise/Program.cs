@@ -1,12 +1,14 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace PalindromeExercise
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
+
     }
 }
